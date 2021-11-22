@@ -1,5 +1,5 @@
 *.sqlite
-
+data/
 .DS_Store
 
 __pycache__/
@@ -17,4 +17,3 @@ venv.bak/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
