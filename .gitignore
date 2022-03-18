@@ -5,6 +5,7 @@ data/
 
 *.~lock.*
 
+*.csv
 
 __pycache__/
 *.py[cod]
