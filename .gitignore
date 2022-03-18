@@ -2,6 +2,10 @@
 data/
 .DS_Store
 
+
+.~lock.*
+
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -19,6 +23,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
 # Jupyter Notebook
+
 .ipynb_checkpoints
