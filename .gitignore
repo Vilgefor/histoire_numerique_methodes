@@ -3,7 +3,7 @@ data/
 .DS_Store
 
 
-.~lock.*
+*.~lock.*
 
 
 __pycache__/
