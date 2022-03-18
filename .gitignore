@@ -6,6 +6,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+manipuler_les_fichiers/donnees/etudiantes_universites_suisses.csv
+
+
+
 # Environments
 .env
 .venv
