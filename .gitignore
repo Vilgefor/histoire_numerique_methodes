@@ -2,6 +2,7 @@
 data/
 .DS_Store
 
+docs_text
 
 donnees/.~lock.*
 
@@ -13,7 +14,7 @@ __pycache__/
 *$py.class
 
 
-manipuler_les_fichiers/donnees/etudiantes_universites_suisses.csv
+!manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v2.csv
 
 
 
